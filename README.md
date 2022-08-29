@@ -1,1 +1,1 @@
-# blockchain
+# This repository is a place where I can experiment with blockchains, cryptography and so on.
